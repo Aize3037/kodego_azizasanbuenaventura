@@ -7,11 +7,15 @@ Date Created: September 3, 2022
 File name: Activity 01 - A
  */
 println("Directory: The Pioneer")
-    var student1: String = "Aziza"
-    println("Enter your name:")
-var name = readln()
+    println("Student Name:")
+    var student: String = "Aziza San Buenaventura"
+    println("Aziza San Buenaventura")
+    println("Student Address:")
+    var address: String = "Pasig City"
+    println("Pasig City")
     println("Progress:")
     var progress: String = "Incomplete"
     println("Incomplete")
+
 
 }
