@@ -1,19 +1,11 @@
 package exercises
-//fun main(){
- //   println(" Enter the amount you want to save:")
-//    var amount1: Int = readln().toInt()
-//println("You save $amount1")
+fun main() {
+    println("Enter the amount you want to save:")
 
-//do{
- //   println("Do you want to continue?")
- //   var answer: String = readln().toString()
+        var amount1: Int = readln().toInt()
+    var amount2: Int = readln().toInt()
 
- //   if (answer == "Yes") {
- //       println("Please add another amount")
-  //      var amount2: Int = readln().toInt()
-  //      println("You save $amount2")
- //   } else if(answer =="No"){
-  //      println()
- //   }
+        println("Do you want to add another amount?")
 
+}
 
