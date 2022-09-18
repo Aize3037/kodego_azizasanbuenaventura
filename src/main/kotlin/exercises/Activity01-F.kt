@@ -1,11 +1,19 @@
 package exercises
-var word: String = "Anna"
-fun main (){
+fun main() {
+    println("Enter a word:")
+    var originalString1 = "madam"
+    readln()
 
-  println("Enter the word:")
-  var word: String = readln().toString()
-    if (word == "Anna"){
-        println("This is a Palindrome")
-    } else
-        println("Not a Palindrome")
+    var reverseString = originalString1.reversed()
+
+    if (originalString1 == reverseString) {
+        println("The given string is Palindrome")
+    } else {
+        println("The given string is NOT a Palindrome")
+
+    }
 }
+
+
+
+
