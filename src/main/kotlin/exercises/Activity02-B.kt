@@ -11,14 +11,16 @@ fun main(){
         println(availablebooks)
     }
     println("Do you want to borrow books?")
-    var answer : String = readln()
+    var answer : String = readln().lowercase()
 
-    if (answer == "Yes") {
+    if (answer == "yes") {
         println("Enter the book you want to borrow:")
         readln()
         println("Thank you for borrowing!")
-    }else if(answer == "No"){
+    }else if(answer == "no"){
         println("Have a nice day!")
+    }else{
+        println("Invalid Input")
     }
 
 }
