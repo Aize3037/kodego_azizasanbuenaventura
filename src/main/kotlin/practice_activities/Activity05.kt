@@ -1,11 +1,7 @@
 package practice_activities
 fun main(){
-    println("Enter number 1:")
-    var num = readln().toInt()
+    var numbers = arrayOf<Int>(2,4,6,7,10)
 
 
 
-
-
-    var row : Int = 0
 }

@@ -2,13 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9f4987d-5d62-4a2e-9055-6cd76d07463f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/oop/Main.kt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/oop/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/oop2/Animal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/oop2/Chicken.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/oop2/Dog.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/oop2/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/KotlinProgram6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinProgram6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodego_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kodego_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/KotlinProgram30.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinProgram30.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/KotlinProgram33.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinProgram33.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/KotlinProgram34.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinProgram34.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/Activity01-A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/Activity01-A.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practice_activities/Activity04.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practice_activities/Activity04.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practice_activities/Activity05.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practice_activities/Activity05.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practice_activities/Activity06.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practice_activities/Activity06.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practice_activities/Activity08.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practice_activities/Activity08.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practice_activities/Activity10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practice_activities/Activity10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practice_activities/Activity11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practice_activities/Activity11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practice_activities/Activity9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practice_activities/Activity9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/exercises/Activity02_BKtTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/exercises/Activity02_BKtTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,17 +51,33 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="exercises" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\IdeaProjects\kodego_project\src\main\kotlin" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="exercises" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,5 +101,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/KotlinProgram30.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

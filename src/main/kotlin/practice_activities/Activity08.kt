@@ -5,14 +5,14 @@ fun main() {
 }
 fun maxNumber(num1:Int, num2: Int, num3:Int):Int{
 
-    if(num1 >= num2 && num1 >= num3)
+    if(num1 >= num2 && num1 >= num3) {
         println("$num1 is the maxNumber")
-    else if(num2 >= num1 && num2 >= num3)
+    }else if(num2 >= num1 && num2 >= num3) {
         println("$num2 is the maxNumber")
-    else
+    }else if(num3 >= num1 && num3 >= num2)
         println("$num3 is the maxNumber")
 
-    return 1
+    return 3
 }
 
 
